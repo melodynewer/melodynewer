@@ -1,5 +1,7 @@
 ### Hi there 👋
-#### I'm Sun Yujie,I'm from GDUT,I hope I can become an excellent fore-end engineer
+#### I'm Sun Yujie,I'm from GDUT
+#### 🌱 I’m currently learning fore-end
+#### 😄I hope I can become an excellent fore-end engineer
 <!--
 **melodynewer/melodynewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
