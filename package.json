@@ -1,0 +1,19 @@
+{
+  "name": "paperpass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^8.2.0",
+    "nodejieba": "^2.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
