@@ -5,7 +5,7 @@
   "name": "3120005298",
   "version": "1.0.0",
   "description": "ceshi",
-  "main": "program1.Test.js",
+  "main": "program.Test.js",
   "dependencies": {
     "ansi-regex": "^5.0.1",
     "ansi-colors": "^4.1.1",
@@ -84,7 +84,7 @@
     "yocto-queue": "^0.1.0"
   },
   "scripts": {
-    "test": "mocha program1Test.js"
+    "test": "mocha programTest.js"
   },
   "repository": {
     "type": "git",
